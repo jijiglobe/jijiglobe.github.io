@@ -1,26 +1,32 @@
 #navbar {
-   /* padding: 0px;
-    height: 30px;
-    width: 100%;
-    clear: both;
-    float: top;
-    /*margin: 0 0 0 0;
-    background-color: #FF0000;
-    */
+    /* 
+       padding: 0px;
+       height: 30px;
+       width: 100%;
+       clear: both;
+       float: top;
+       /*margin: 0 0 0 0;
+       background-color: #FF0000;
+       */
     list-style-type: none;
     margin: 0;
     padding: 0;
+    /*width: 100%;*/
+    height: 5%;
 } 
 #navEl {
-    padding: 10px;
+    width: 120px;
+    padding: 4px;
+    color: #FFFFFF;
+    background-color: #FF0000;
     float:left;
+    text-align: center;
 }
 
-/*
+
 #navDiv {
-    background-color: #FF0000;
-} */
-   
+} 
+
 .pclass{
     font-size: large;
 }
