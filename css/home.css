@@ -1,0 +1,26 @@
+#navbar {
+   /* padding: 0px;
+    height: 30px;
+    width: 100%;
+    clear: both;
+    float: top;
+    /*margin: 0 0 0 0;
+    background-color: #FF0000;
+    */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+#navEl {
+    padding: 10px;
+    float:left;
+}
+
+/*
+#navDiv {
+    background-color: #FF0000;
+} */
+   
+.pclass{
+    font-size: large;
+}
